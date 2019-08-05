@@ -1,0 +1,14 @@
+{
+    "strict": false,
+    "asi": true,
+    "funcscope": true,
+    "lastsemic": true,
+    "eqnull": true,
+    "sub": true,
+    "supernew": true,
+    "boss": true,
+    "node": true,
+    "globals": {
+      "jQuery": true
+    }
+}
